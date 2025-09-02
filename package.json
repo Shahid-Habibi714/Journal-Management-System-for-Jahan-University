@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "eslint"
   },
+  "engines": {
+    "node": "20.19.3"
+  },
   "dependencies": {
     "react": "19.1.0",
     "react-dom": "19.1.0",
